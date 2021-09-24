@@ -1,0 +1,8 @@
+format: jb-book
+root: index
+parts:
+  - caption: Syllabus
+    chapters:
+  - caption: Notes
+    chapters:
+  - caption: Assignments 
