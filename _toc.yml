@@ -6,3 +6,5 @@ parts:
   - caption: Notes
     chapters:
   - caption: Assignments 
+  - caption: Resources
+    chapters:
