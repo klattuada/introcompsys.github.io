@@ -5,6 +5,8 @@ deeply in other courses.  We'll learn about tools used in programming and how th
 work. The goal of this course is to help you understand how your computer and programming
 environment work so that you can debug and learn independently more confident. 
 
+**TuTh 12:30PM - 1:45PM**
+
 ## Why Take this course
 
 1. use and understand git/ GitHub
