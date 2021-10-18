@@ -10,7 +10,17 @@ environment work so that you can debug and learn independently more confident.
 1. use and understand git/ GitHub
 1. make sense of cryptic compiler messages
 1. understand file organization impacts programming
-- 
+
+## Topics covered
+
+_this is a partilal list
+- git and other version control
+- bash and other shell scripting
+- filesystems
+- basics of hardware
+- what happens when you compile code
+- what are the different types of software on your computer
+
 
 ## Catalog Description
 
