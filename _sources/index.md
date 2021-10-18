@@ -13,7 +13,7 @@ environment work so that you can debug and learn independently more confident.
 
 ## Topics covered
 
-_this is a partilal list
+_this is a partilal list_
 - git and other version control
 - bash and other shell scripting
 - filesystems
