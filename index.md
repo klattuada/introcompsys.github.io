@@ -7,9 +7,9 @@ environment work so that you can debug and learn independently more confident.
 
 ## Why Take this course
 
-- use and understand git/ GitHub
-- understand file organization impacts programming
-- make sense of cryptic compiler messages
+1. use and understand git/ GitHub
+1. make sense of cryptic compiler messages
+1. understand file organization impacts programming
 - 
 
 ## Catalog Description
