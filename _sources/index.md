@@ -1,11 +1,14 @@
-# Introduction to computer systems
+# Introduction to Computer Systems
 
-This course links together different ideas that you have encountered but not covered
+This new course links together different ideas that you have encountered but not covered
 deeply in other courses.  We'll learn about tools used in programming and how they 
 work. The goal of this course is to help you understand how your computer and programming
 environment work so that you can debug and learn independently more confident. 
 
-**TuTh 12:30PM - 1:45PM**
+**Course time:**TuTh 12:30PM - 1:45PM
+
+To request a permission number [complete this google form](https://forms.gle/eVrmK9SBKYqpCNk99)
+**you must be signed into your URI google account to access the form**
 
 ## Why Take this course
 
