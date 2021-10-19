@@ -1,16 +1,16 @@
 format: jb-book
 root: index
-#   parts:
+parts:
+  - caption: Resources
+      chapters:
+      - file: resources/references
 #   - caption: Syllabus
 #     chapters:
-#       - file: 
+#       - file:
 #   - caption: Notes
 #     chapters:
-#       - file: 
-#   - caption: Assignments 
+#       - file:
+#   - caption: Assignments
 #     chapters:
-#       - file: 
-#   - caption: Resources
-#       chapters:
-#       - file: 
-# 
+#       - file:
+#
