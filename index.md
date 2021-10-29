@@ -8,8 +8,8 @@ environment work so that you can debug and learn independently more confident.
 
 ## Quck Facts
 
-**Course time:** Spring 2022, TuTh 12:30PM - 1:45PM
-**Credits:** 4
+- **Course time:** Spring 2022, TuTh 12:30PM - 1:45PM
+- **Credits:** 4
 
 
 
@@ -51,3 +51,9 @@ By the end of the semester, students will be able to:
 1. Identify the computational pipeline from hardware to high level programming language
 1. Discuss implications of choices across levels of abstraction
 1. Describe the context under which essential components of computing systems were developed and explain the impact of that context on the systems.
+
+## FAQ
+
+```{dropdown} How many credits is this class?
+4
+```
