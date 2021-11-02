@@ -57,3 +57,13 @@ By the end of the semester, students will be able to:
 ```{dropdown} How many credits is this class?
 4
 ```
+
+```{dropdown} Why does e-campus let us choose a number of credits?
+CSC392 (actually all CSCx92) is a special course number we put in ecampus to allow 
+faculty to develop new courses or teach a one time offering. We call it a "Topics Course."
+Courses offered as CSCx92 can be different every semester, or even multiple "sections" in 
+a given semester all covering completely different things. 
+
+A specific topic can be offered as CSCx92 three times before becoming a regular course
+and getting its own course number. 
+```
