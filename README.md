@@ -1,1 +1,1 @@
-# introcompsys.github.io
+# Course Website for URI Introduction to Computer Systems 
