@@ -179,11 +179,11 @@ Software Infrastructure
 -----------------------
 ```{list-table}
 :header-rows: 1
-* - [Operating Systems: Crash Course]{https://www.youtube.com/watch?v=26QPDBe-NB8&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=19}
+* - [Operating Systems: Crash Course](https://www.youtube.com/watch?v=26QPDBe-NB8&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=19)
   - 1
   - Video
   - Very basic introduction to operating systems and the history of how they began. 
-* - [Files and File Systems]{https://www.youtube.com/watch?v=KN8YgJnShPM&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=21)
+* - [Files and File Systems](https://www.youtube.com/watch?v=KN8YgJnShPM&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=21)
   - 1
   - Video
   - Crash Course video that gives a very basic introduction to files and file systems. 
