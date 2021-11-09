@@ -179,7 +179,7 @@ Software Infrastructure
 -----------------------
 ```{list-table}
 :header-rows: 1
-* - [Operating Systems: Crash Course](https://www.youtube.com/watch?v=26QPDBe-NB8&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=19)
+* - [Operating Systems: Crash Course]{https://www.youtube.com/watch?v=26QPDBe-NB8&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=19}
   - 1
   - Video
   - Very basic introduction to operating systems and the history of how they began. 
