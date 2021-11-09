@@ -183,7 +183,7 @@ Software Infrastructure
   - 1
   - Video
   - Very basic introduction to operating systems and the history of how they began. 
-* - [Files and File Systems]{https://www.youtube.com/watch?v=KN8YgJnShPM&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=21)
+* - [Files and File Systems](https://www.youtube.com/watch?v=KN8YgJnShPM&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=21)
   - 1
   - Video
   - Crash Course video that gives a very basic introduction to files and file systems. 
