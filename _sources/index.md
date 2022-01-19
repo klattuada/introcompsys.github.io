@@ -54,6 +54,15 @@ By the end of the semester, students will be able to:
 
 ## FAQ
 
+```{dropdown} Does the course focus on going in depth on a few topics or covering a variety of topics with less depth?
+We will cover some topics in depth and others with less depth.  For example, there are whole courses on computer architecture (411), programming languages (301), and operating systems (412) so we won't cover these in as much detail in those courses, but we will touch on those in terms of how they relate to other topics.
+
+We will cover topics that are currently not covered elsewhere in the curriculum in more depth, like version control, shells, etc.
+
+A lot of the topics we'll cover have been touched at least in very brief passing in 110, 211, 212, but not explained how, just that they exist and this is the name.  We'll cover those topics in more detail. 
+```
+
+
 ```{dropdown} How many credits is this class?
 4
 ```
