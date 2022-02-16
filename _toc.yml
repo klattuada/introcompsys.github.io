@@ -5,6 +5,7 @@ parts:
     chapters:
     - file: resources/references
   - caption: Offerings
+    chapters:
     - url: https://introcompsys.github.io/spring2022
       title: Spring 2022
 #   - caption: Syllabus
