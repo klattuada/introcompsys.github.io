@@ -54,6 +54,12 @@ By the end of the semester, students will be able to:
 
 ## FAQ
 
+```{dropdown} What will the course be like? 
+
+You can see the notes and syllabus for Spring 2022 on the semester's [course website](https://introcompsys.github.io/spring2022). Some things will change for Fall 2022, but the basic ideas will be similar. 
+```
+
+
 ```{dropdown} Does the course focus on going in depth on a few topics or covering a variety of topics with less depth?
 We will cover some topics in depth and others with less depth.  For example, there are whole courses on computer architecture (411), programming languages (301), and operating systems (412) so we won't cover these in as much detail in those courses, but we will touch on those in terms of how they relate to other topics.
 
