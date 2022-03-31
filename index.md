@@ -6,14 +6,14 @@ work. The goal of this course is to help you understand how your computer and pr
 environment work so that you can debug and learn independently more confident.
 
 
-## Quck Facts
+## Quick Facts
 
 - **Course time:** Spring 2022, TuTh 12:30PM - 1:45PM
 - **Credits:** 4
 
 
 
-To request a permission number [complete this google form](https://forms.gle/eVrmK9SBKYqpCNk99)
+To request a permission number [complete this google form](https://forms.gle/4Le3bZtE3VWmbz2G9)
 **you must be signed into your URI google account to access the form**
 
 ## Why Take this course
@@ -53,6 +53,21 @@ By the end of the semester, students will be able to:
 1. Describe the context under which essential components of computing systems were developed and explain the impact of that context on the systems.
 
 ## FAQ
+
+```{dropdown} What will the course be like? 
+
+You can see the notes and syllabus for Spring 2022 on the semester's [course website](https://introcompsys.github.io/spring2022). Some things will change for Fall 2022, but the basic ideas will be similar. 
+```
+
+
+```{dropdown} Does the course focus on going in depth on a few topics or covering a variety of topics with less depth?
+We will cover some topics in depth and others with less depth.  For example, there are whole courses on computer architecture (411), programming languages (301), and operating systems (412) so we won't cover these in as much detail in those courses, but we will touch on those in terms of how they relate to other topics.
+
+We will cover topics that are currently not covered elsewhere in the curriculum in more depth, like version control, shells, etc.
+
+A lot of the topics we'll cover have been touched at least in very brief passing in 110, 211, 212, but not explained how, just that they exist and this is the name.  We'll cover those topics in more detail. 
+```
+
 
 ```{dropdown} How many credits is this class?
 4
