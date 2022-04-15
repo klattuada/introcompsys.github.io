@@ -160,7 +160,7 @@ Survey of Hardware Components
   - 1
   - Video
   - Video that explains what the derived logic gates are (NAND, NOR, XOR, XNOR). Uses simple, easy to understand real-world examples such as light switches in a room.
-  - [Registers and RAM](https://www.youtube.com/watch?v=fpnE6UAfbtU)
+* - [Registers and RAM](https://www.youtube.com/watch?v=fpnE6UAfbtU)
   - 1
   - Video
   - Crash Course video that explains what registers are and how RAM works.
