@@ -1,5 +1,6 @@
 # Why take this class
 
+You should take this class if you want to be introduced to some topics prior to taking 411 and 412. This class also allows you to gain some experience using the terminal, understanding the term `computing` and the topics surrounding it, and using version control systems such as git which are useful in the professional world. 
 
 This class offers great experience with real world computer science tools like github. This class will also expose you to 
 intermediate computer science concepts. In total the skills learned in this class will make you a much more rounded computer science student. 
