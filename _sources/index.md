@@ -23,6 +23,7 @@ To request a permission number [complete this google form](https://forms.gle/4Le
 1. understand how file organization impacts programming
 1. fulfill your 300 level CSC elective requirement
 1. preview ideas that will be explored in depth in 411 & 412
+1. Further your understanding of systems abstractions 
 
 ## Topics covered
 
