@@ -8,12 +8,13 @@ environment work so that you can debug and learn independently more confident.
 
 ## Quick Facts
 
-- **Course time:** Fall 2022, MW 4:30PM - 5:45PM
+- **Course time:** 	TuTh 12:30PM - 1:45PM
 - **Credits:** 4
 
+<!-- Fall 2022, MW 4:30PM - 5:45PM -->
 <!-- Spring 2022, TuTh 12:30PM - 1:45PM -->
 
-To request a permission number [complete this google form](https://forms.gle/4Le3bZtE3VWmbz2G9)
+To request a permission number [complete this google form]([https://forms.gle/4Le3bZtE3VWmbz2G9](https://forms.gle/9w9GL67Wi5oRDg3GA))
 **you must be signed into your URI google account to access the form**
 
 ## Why Take this course
