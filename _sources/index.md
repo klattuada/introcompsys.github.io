@@ -94,3 +94,17 @@ and getting its own course number.
 This course will count toward the CSC Elective requirement.
 The catalog says, "Two CSC or CSF courses at the 300-level or above. CSC 392, 491 may only be used with departmental permission." The department will approve this course for that purpose after you submit a Curriculum Modification to allow it to count.
 ```
+
+```{dropdown} How big is the class? 
+This class is currently planned to be capped at 30 students. 
+```
+
+
+```{dropdown} Will there be a lab? 
+There is no separate lab to register, but this is an active learning course.  This means that I expect the class time itself to play a significant role in your initial learning of the topics.  You will preview and review outside of class and depending on your own goals explore topics deeper outside of class. Active participation, bringing your laptop to try things out as I show them and answering questions in class (verbally or through a classroom chat tool; free) are required. 
+```
+
+
+```{dropdown} Can this course be taken with a full course load? 
+In theory, all courses should be manageable alongside other courses. However in practice, I recognize that some courses end up requiring more time than they should.  I strive to keep the workload for this course appropriate for the 4 credit expectation. For a four credit course, you should in general expect in class time + work outside of class to total about 12 hours per week, on average. 
+```
