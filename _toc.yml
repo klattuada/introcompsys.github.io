@@ -11,6 +11,8 @@ parts:
       title: Spring 2022
     - url: https://introcompsys.github.io/fall2022
       title: Fall 2022
+    - url: https://introcompsys.github.io/spring2023
+      title: Spring 2023
 #   - caption: Syllabus
 #     chapters:
 #       - file:
