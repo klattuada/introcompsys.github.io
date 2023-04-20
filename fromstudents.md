@@ -17,3 +17,5 @@ this stuff for a class. Additionally, being comfortable with version control
 systems is essential for not only school projects, but also your internships
 and jobs.
 
+You should take this course if you want experience with different tools used in the computer science field or more knowledge on how IDEs' and programming lanaguages
+work. This class gets your feet wet in many different aspects and you are able to gain alot of knowlegde within a short period of time with the assignments. 
