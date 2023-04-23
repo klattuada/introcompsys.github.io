@@ -17,3 +17,6 @@ this stuff for a class. Additionally, being comfortable with version control
 systems is essential for not only school projects, but also your internships
 and jobs.
 
+This course offers an extrely helpful understanding of both git and github, I believe it would be especially benificial to take before CSC305 and
+CSC412 which both use knowledge that would be leaned in this course. I found that this course was able to help be strengthen my understanding on git and
+github in such a way that I know it will be benifiical to my education and career moving forward. 
