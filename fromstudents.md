@@ -17,3 +17,5 @@ this stuff for a class. Additionally, being comfortable with version control
 systems is essential for not only school projects, but also your internships
 and jobs.
 
+You should take this course if you want to get acquainted with the basic skills needed to use github and bash, two applications that will be used in the workplace.
+This class will also teach you background information on how computers work, both in how the a cs language interacts with the computer but also how the hardware relates to the processes of a computer and its languages.
