@@ -17,3 +17,4 @@ this stuff for a class. Additionally, being comfortable with version control
 systems is essential for not only school projects, but also your internships
 and jobs.
 
+You should take this class if you want to learn more about git, github, and how to use the terminal.
