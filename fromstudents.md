@@ -1,5 +1,9 @@
 # Why take this class
 
+```{note}
+These are real comments submitted by former students. Dig through the [git blame](https://github.com/introcompsys/introcompsys.github.io/blame/main/fromstudents.md) to see
+```
+
 You should take this class if you want to be introduced to some topics prior to taking 411 and 412. This class also allows you to gain some experience using the terminal, understanding the term `computing` and the topics surrounding it, and using version control systems such as git which are useful in the professional world. 
 
 This class offers great experience with real world computer science tools like github. This class will also expose you to 
