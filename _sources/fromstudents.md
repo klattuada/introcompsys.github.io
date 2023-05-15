@@ -18,6 +18,10 @@ systems is essential for not only school projects, but also your internships
 and jobs.
 
 
+You should take this course if you want to get acquainted with the basic skills needed to use github and bash, two applications that will be used in the workplace.
+This class will also teach you background information on how computers work, both in how the a cs language interacts with the computer but also how the hardware relates to the processes of a computer and its languages.
+
+
 This course offers an extrely helpful understanding of both git and github, I believe it would be especially benificial to take before CSC305 and
 CSC412 which both use knowledge that would be leaned in this course. I found that this course was able to help be strengthen my understanding on git and
 github in such a way that I know it will be benifiical to my education and career moving forward. 
@@ -44,5 +48,6 @@ you gain experience/knowledge about real world applications. For example, we go 
 commnads and the many things you can do with github. This will help you in the real world but also while 
 your still in school. Currently, I am stil only in CSC 212 but I have already used github a bunch. With 
 this class, I can now use github better. 
+
 
 
