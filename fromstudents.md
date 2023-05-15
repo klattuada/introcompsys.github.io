@@ -17,4 +17,23 @@ this stuff for a class. Additionally, being comfortable with version control
 systems is essential for not only school projects, but also your internships
 and jobs.
 
-You should take this class if you want to understand more of a real software developer's workflow and begin to create your own code in a more professional way. The level of comfort that I have gained with Git is something that I believe will be invaluable to me as I enter my career as a professional developer. Getting more comfortable with working in the terminal and using simple bash scripts to automate tasks is another thing that I learned in this class which greatly increased my work efficiency. Getting introduced to some of the core topics for 411 and 412 ahead of time is also a huge benefit to this class as it will save you a ton of time when taking those courses.
+
+You should take this class if you want to understand more of a real software developer's workflow 
+and begin to create your own code in a more professional way. The level of comfort that I have 
+gained with Git is something that I believe will be invaluable to me as I enter my career as a 
+professional developer. Getting more comfortable with working in the terminal and using simple 
+bash scripts to automate tasks is another thing that I learned in this class which greatly increased 
+my work efficiency. Getting introduced to some of the core topics for 411 and 412 ahead of time 
+is also a huge benefit to this class as it will save you a ton of time when taking those courses.
+
+
+You should take this class if you want to learn more about git, github, and how to use the terminal.
+
+
+YOu should take this class because it introduces you to new concepts about computer science. It helps 
+you gain experience/knowledge about real world applications. For example, we go over a lot of github 
+commnads and the many things you can do with github. This will help you in the real world but also while 
+your still in school. Currently, I am stil only in CSC 212 but I have already used github a bunch. With 
+this class, I can now use github better. 
+
+
