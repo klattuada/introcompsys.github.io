@@ -18,6 +18,10 @@ systems is essential for not only school projects, but also your internships
 and jobs.
 
 
+You should take this course if you want experience with different tools used in the computer science field or more knowledge on how IDEs' and programming lanaguages
+work. This class gets your feet wet in many different aspects and you are able to gain alot of knowlegde within a short period of time with the assignments. 
+
+
 You should take this class if you want to understand more of a real software developer's workflow 
 and begin to create your own code in a more professional way. The level of comfort that I have 
 gained with Git is something that I believe will be invaluable to me as I enter my career as a 
@@ -35,5 +39,6 @@ you gain experience/knowledge about real world applications. For example, we go 
 commnads and the many things you can do with github. This will help you in the real world but also while 
 your still in school. Currently, I am stil only in CSC 212 but I have already used github a bunch. With 
 this class, I can now use github better. 
+
 
 
