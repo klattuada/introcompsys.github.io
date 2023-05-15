@@ -17,5 +17,10 @@ this stuff for a class. Additionally, being comfortable with version control
 systems is essential for not only school projects, but also your internships
 and jobs.
 
+
+You should take this class if you want to learn more about git, github, and how to use the terminal.
+
+
 YOu should take this class because it introduces you to new concepts about computer science. It helps you gain expereince/knowledge about real world applications. For example, we go over a lot of github commnads and the many things you can do with github. This will help you in the real world but also while your still in school. Currently, I am stil only in CSC 212 but I have already used github a bunch. With this class, I can now use github better. 
+
 
