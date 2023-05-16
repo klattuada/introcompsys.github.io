@@ -10,6 +10,7 @@ environment work so that you can debug and learn independently more confident.
 
 - **Course time:** 	TuTh 12:30PM - 1:45PM Fall2023
 - **Credits:** 4
+- **Location:** Tyler Hall room 108
 
 <!-- Fall 2022, MW 4:30PM - 5:45PM -->
 <!-- Spring 2022, TuTh 12:30PM - 1:45PM -->
@@ -27,6 +28,8 @@ To request a permission number [complete this google form](https://forms.gle/oKo
 1. fulfill your 300 level CSC elective requirement
 1. preview ideas that will be explored in depth in 411 & 412
 1. Further your understanding of systems abstractions 
+
+[see other reasons from students](fromstudents)
 
 ## Topics covered
 
@@ -63,7 +66,14 @@ By the end of the semester, students will be able to:
 
 ```{dropdown} What will the course be like?
 
-You can see the notes and syllabus for Spring 2022 on the semester's [course website](https://introcompsys.github.io/spring2022). Some things will change for Fall 2022, but the basic ideas will be similar.
+You can see the notes and syllabus for Spring 2023 on the semester's [course website](https://introcompsys.github.io/spring2023). Some things will change for Fall 2023, but the basic ideas will be similar.
+
+In each class session, we will explore through hands on activities with bits of lecture different topics.  After that, you will have things to try and experiment with to reinforce what you learn so that you retain it and learn more details about the topics you like best.  Assignments will include mostly short answers and small excerpts of code, a lot of scripting, less long projects.  The grading is set up so that you choose the level of depth you want to study at (and corresponding grade) and then you work to demonstrate that level of understanding through revisions as needed.  
+```
+
+```{dropdown} Are there specific hardware requirements? 
+
+Any computer that works for other CS courses should work.  You do absolutely need administrative rights on your computer to be able to install software that we will use throughout the semester.  If you use Windows, getting Windows Subsystem for Linux setup makes some things easier but is not required. 
 ```
 
 
