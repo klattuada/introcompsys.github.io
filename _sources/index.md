@@ -64,6 +64,17 @@ By the end of the semester, students will be able to:
 
 ## FAQ
 
+```{dropdown} What is the best way to be successful in this course?
+
+[see student advice](https://introcompsys.github.io/spring2023/resources/testimonials) 
+
+The course is designed around the goal of short, frequent practice with the material, because I believe this is the best way to learn things
+so that you retain them for a long time and I think that it will serve you well to retain this material for al ong time.  Students who earn high grades, 
+follow this pattern, they do a little bit of work for this course 3-4 days per week.  Students who try to do work for this course only one day per week
+or less tend to not do well. 
+```
+
+
 ```{dropdown} What will the course be like?
 
 You can see the notes and syllabus for Spring 2023 on the semester's [course website](https://introcompsys.github.io/spring2023). Some things will change for Fall 2023, but the basic ideas will be similar.
