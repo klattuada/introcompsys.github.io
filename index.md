@@ -9,8 +9,9 @@ environment work so that you can debug and learn independently more confident.
 ## Quick Facts
 
 - **Course time:** 	TuTh 12:30PM - 1:45PM Fall2023
-- **Credits:** 4
 - **Location:** Tyler Hall room 108
+- **Credits:** 4
+- **Mandatory Lab:** Fri 2-3:45 in Tyler 053
 
 <!-- Fall 2022, MW 4:30PM - 5:45PM -->
 <!-- Spring 2022, TuTh 12:30PM - 1:45PM -->
