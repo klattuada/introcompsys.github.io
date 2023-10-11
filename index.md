@@ -8,16 +8,16 @@ environment work so that you can debug and learn independently more confident.
 
 ## Quick Facts
 
-- **Course time:** 	TuTh 12:30PM - 1:45PM Fall2023
-- **Location:** Tyler Hall room 108
+- **Course time:** 	TuTh 12:30PM - 1:45PM Spring 2024
+- **Location:** TBA
 - **Credits:** 4
-- **Mandatory Lab:** Fri 2-3:45 in Tyler 053
+- **Mandatory Lab:** TBA
 
 <!-- Fall 2022, MW 4:30PM - 5:45PM -->
 <!-- Spring 2022, TuTh 12:30PM - 1:45PM -->
 <!-- Spring 2023, TuTh 12:30PM - 1:45PM -->
 
-To request a permission number [complete this google form](https://forms.gle/oKoQUD4uo9YNuEDv6)
+To request a permission number [complete this google form](https://forms.gle/EHDGqJzLg1jsyuqZ6)
 
 **you must be signed into your URI google account to access the form**
 
