@@ -11,7 +11,7 @@ environment work so that you can debug and learn independently more confident.
 - **Course time:** 	TuTh 12:30PM - 1:45PM Spring 2024
 - **Location:** TBA
 - **Credits:** 4
-- **Mandatory Lab:** TBA
+- **Mandatory Lab:** Monday 3-4:45pm
 
 <!-- Fall 2022, MW 4:30PM - 5:45PM -->
 <!-- Spring 2022, TuTh 12:30PM - 1:45PM -->
