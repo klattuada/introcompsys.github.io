@@ -3,6 +3,7 @@
 ```{note}
 These are real comments submitted by former students. Dig through the [git blame](https://github.com/introcompsys/introcompsys.github.io/blame/main/fromstudents.md) to see
 ```
+You should take this course if you want real world experience in how teams use current technologies to work as a team. This class teaches crucial skills that you may not have had beforehand. It is like a class that pieces together many smaller previous topics and explains how they all work together. Git is one of the main topics in this course and as my time in the class comes to an end I can say that it is one of the most useful techniques you can learn before diving real deep into CS.
 
 You should take this class if you want to be introduced to some topics prior to taking 411 and 412. This class also allows you to gain some experience using the terminal, understanding the term `computing` and the topics surrounding it, and using version control systems such as git which are useful in the professional world. 
 
